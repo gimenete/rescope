@@ -1,0 +1,26 @@
+{
+  "name": "rescope",
+  "version": "0.1.0",
+  "description": "Magically mock dependencies by changing the scope",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gimenete/rescope.git"
+  },
+  "keywords": [],
+  "author": "Alberto Gimeno <gimenete@gimenete.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gimenete/rescope/issues"
+  },
+  "homepage": "https://github.com/gimenete/rescope#readme",
+  "devDependencies": {
+    "jest": "^23.4.2"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
